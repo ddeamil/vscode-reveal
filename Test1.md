@@ -33,6 +33,14 @@ title: "VSCode Reveal intro"
 
 ---
 
+  <section style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url('https://images.pexels.com/photos/9034291/pexels-photo-9034291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'); background-size: cover;">
+        <h4 style="color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Objectif de formation :</h4>
+        <h1 style="color: black; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">🎯</h1>
+        <h3 style="color: LightCoral; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Concevoir une présentation Powerpoint</h3>
+      </section>
+
+---
+
 ### Solar System Exploration, 1950s – 1960s
 
 - [ ] Mercury
